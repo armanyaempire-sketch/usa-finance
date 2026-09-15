@@ -31,7 +31,7 @@ children: React.ReactNode
 return ( <html lang="en-US"> <head>
 {/* USA Finance Popunder */} <script src="https://pl31358481.profitableratecpmnetwork.com/c5/eb/52/c5eb52d2fd43f4d4956ba60d308f994a.js" /> </head>
 
-```
+
   <body>
     {children}
 
@@ -39,7 +39,7 @@ return ( <html lang="en-US"> <head>
     <script src="https://pl31358489.profitableratecpmnetwork.com/a9/9f/2f/a99f2f10ab042387aa2b6eb6080025e0.js" />
   </body>
 </html>
-```
+
 
 )
 }
