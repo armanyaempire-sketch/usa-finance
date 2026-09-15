@@ -788,7 +788,6 @@ USA <b>Finance</b> </span> </a>
     </div>
   </footer>
 </main>
-```
 
 )
 }
