@@ -16,7 +16,7 @@ __html: `               atOptions = {
 }}
 /> <script src="https://www.highrevenueformat.com/410caa64d80169384e63102757efaa6d/invoke.js" /> </div>
 
-```
+
   <div className="mobile-ad">
     <script
       dangerouslySetInnerHTML={{
@@ -34,7 +34,6 @@ __html: `               atOptions = {
     <script src="https://www.highrevenueformat.com/edfd187bbbfab40ee18abe4a0bb687a4/invoke.js" />
   </div>
 </>
-```
 
 )
 }
@@ -55,7 +54,7 @@ __html: `               atOptions = {
 }}
 /> <script src="https://www.highrevenueformat.com/ce461342d57fce5a083abac0b63336f9/invoke.js" /> </div>
 
-```
+
   <div className="mobile-ad">
     <script
       dangerouslySetInnerHTML={{
@@ -73,7 +72,7 @@ __html: `               atOptions = {
     <script src="https://www.highrevenueformat.com/edfd187bbbfab40ee18abe4a0bb687a4/invoke.js" />
   </div>
 </>
-```
+
 
 )
 }
@@ -141,7 +140,7 @@ return ( <main> <header className="site-header"> <div className="wrap header-inn
        > <span className="brand-mark">$</span> <span>
 USA <b>Finance</b> </span> </a>
 
-```
+
       <nav aria-label="Primary navigation">
         <a href="#personal-finance">Personal Finance</a>
         <a href="#markets">Markets</a>
