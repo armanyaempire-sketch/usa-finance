@@ -42,11 +42,11 @@ export default function RootLayout({
         {/* USA Finance Social Bar */}
         <script src="https://pl31358489.profitableratecpmnetwork.com/a9/9f/2f/a99f2f10ab042387aa2b6eb6080025e0.js" />
 
-        {/* USA Finance auto-scroll */}
+        {/* USA Finance auto-scroll: 15 seconds */}
         <Script id="usa-finance-auto-scroll" strategy="afterInteractive">
           {`
             (() => {
-              const duration = 5000;
+              const duration = 15000;
               const articleRatio = 0.45;
 
               const easeInOut = (t) => {
