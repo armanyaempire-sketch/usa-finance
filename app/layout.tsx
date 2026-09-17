@@ -46,7 +46,7 @@ export default function RootLayout({
         <Script id="usa-finance-auto-scroll" strategy="afterInteractive">
           {`
             (() => {
-              const duration = 15000;
+              const duration = 10000;
               const articleRatio = 0.45;
 
               const easeInOut = (t) => {
